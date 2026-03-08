@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/25828022/README.2.md)
 # 🔄 IrishWeather ETL Pipeline
 
 A production-style ETL (Extract, Transform, Load) data pipeline that fetches live weather data for Irish cities, cleans and transforms it, stores it in a SQLite database, and visualises trends via an auto-generated HTML dashboard.
